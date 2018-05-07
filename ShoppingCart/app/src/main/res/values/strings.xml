@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+    <string name="title_activity_act_cad_comb">Cadastrar Combustível</string>
+    <string name="title_activity_cad_comb">cadComb</string>
+</resources>

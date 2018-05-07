@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">enviaSMS_VAA</string>
+    <string name="title_activity_main">MAIN</string>
+    <string name="title_activity_envia">Envia</string>
+</resources>
